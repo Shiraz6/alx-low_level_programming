@@ -1,8 +1,10 @@
 #include<stdio.h>
+
 /**
- *main - main function
+ * main - main function
  *
- *Return: o on success
+ * Description: using sizeof
+ * Return: o on success
  */
 
 int main(void)
