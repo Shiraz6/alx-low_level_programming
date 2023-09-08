@@ -1,7 +1,6 @@
-#include <stdio.h>
-
+#include<stdio.h>
 /**
- *main - main function 
+ *main - main function
  *
  *Return: o on success
  */
